@@ -1,4 +1,4 @@
-provider "aws" {
+provider "azure" {
   region     = "ap-south-1"
 }
 
